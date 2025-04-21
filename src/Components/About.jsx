@@ -48,7 +48,7 @@ function About() {
               (window.location.href =
                 "https://drive.google.com/file/d/1BJpSW7kHlswnZalnNFJYga6S0W1zTVHY/view?usp=sharing")
             }
-            className="mt-4 px-6 py-2 rounded-xl bg-neutral-800 text-white hover:bg-neutral-700 transition"
+            className="flex items-center gap-2 rounded-md px-4 py-2 text-sm font-medium text-white bg-pink-400 hover:bg-purple-700 transition duration-300"
           >
             Download My Resume
           </motion.button>
